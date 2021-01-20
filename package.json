@@ -1,0 +1,24 @@
+{
+  "name": "howmucham",
+  "version": "1.0.0",
+  "description": "A website that uses ML to get house prices in Nigeria",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zubs/howmucham.git"
+  },
+  "keywords": [
+    "Machine Learning",
+    "House Prices",
+    "Nigeria"
+  ],
+  "author": "Zubs <zubairidrisaweda@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zubs/howmucham/issues"
+  },
+  "homepage": "https://github.com/Zubs/howmucham#readme"
+}
