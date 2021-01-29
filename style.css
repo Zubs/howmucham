@@ -1,0 +1,136 @@
+#main-navbar {
+  min-height: 6.25rem;
+  font-size: rem;
+  padding-left: 3.15rem;
+  padding-right: 3.15rem;
+}
+.brand-text h1 {
+  font-size: 2rem;
+}
+#sub-nav {
+  margin-right: 1em;
+}
+#sub-nav a {
+  margin: 1.9rem;
+}
+#search-bg {
+  background-image: url("https://i.ibb.co/VLvmbDP/Lagos.gif");
+  height: 28.75rem;
+  margin-top: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h2 {
+  color: white;
+  text-align: center;
+  font-size: 3rem;
+  padding-top: 3rem;
+}
+h3 {
+  text-align: center;
+  color: white;
+  margin-top: 2.5rem;
+}
+.jed-btn {
+  width: 12rem;
+  height: 3.5rem;
+}
+#inp-grp {
+  width: 30rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4rem;
+}
+h4 {
+  text-align: center;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+.carousel-inner {
+  max-width: 80vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+#ctc-sec {
+  min-height: 30vh;
+  background-color: #303030;
+  margin-top: 3rem;
+  color: white;
+  padding-top: 2rem;
+}
+h6 {
+  text-align: center;
+  color: tomato;
+  font-weight: bolder;
+}
+h6 p {
+  color: white;
+  font-weight: normal;
+}
+.abt-us {
+  text-align: center;
+  padding-inline-start: 0rem;
+}
+.abt-us ul {
+  font-weight: bold;
+  padding-inline-start: 40px;
+}
+.abt-us ul li {
+  text-decoration: none;
+  list-style-type: none;
+  font-weight: normal;
+}
+.abt-us ul li a {
+  text-decoration: none;
+  list-style-type: none;
+  outline: none;
+  color: inherit;
+}
+.abt-us ul li a:hover {
+  color: khaki;
+}
+#cprt {
+  min-height: 3.5rem;
+  background-color: black;
+}
+#cprt .row {
+  padding-top: 1rem;
+  color: whitesmoke;
+}
+.smbtn {
+  text-align: right;
+}
+@media (max-width: 576px) {
+  .jed-btn {
+    width: 12rem;
+    display: block;
+  }
+  #inp-grp {
+    width: 13rem;
+  }
+  .brand-text h1 {
+    font-size: 1.5rem;
+  }
+  #search-bg h2 {
+    font-size: 2rem;
+  }
+  #search-bg h3 {
+    font-size: 1rem;
+  }
+  .abt-us ul {
+    padding-inline-start: 0;
+    margin-left: 10px;
+  }
+  #cprt .row {
+    font-size: 0.5rem;
+    text-align: center;
+  }
+
+  .smbtn {
+    text-align: center;
+  }
+  #main-navbar {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
